@@ -1,4 +1,4 @@
-<img src="assets/profile.gif" alt="Here is a little bit about me!">
+<img src="assets/output.gif" alt="Here is a little bit about me!">
 
 <!-- <h1 align="center">Hi 👋, I'm Nahom Bekele</h1>
 <h3 align="center">A junior data engineer, software engineer and a mid-level react developer based in Addis Ababa, Ethiopia</h3> -->
