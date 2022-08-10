@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomfix&label=Profile%20views&color=0062ff&style=flat" alt="nahomfix" /> </p>
 
--   🌱 I’m currently learning **Apache Spark**
+-   🌱 I’m currently learning **data modeling**
 
 -   💬 Ask me about **react**
 
