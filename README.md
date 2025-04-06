@@ -1,15 +1,11 @@
-<div align="center">
-<img src="assets/output.gif" alt="Here is a little bit about me!">
-</div>
-
-<!-- <h1 align="center">Hi 👋, I'm Nahom Bekele</h1>
-<h3 align="center">A junior data engineer, software engineer and a mid-level react developer based in Addis Ababa, Ethiopia</h3> -->
+<h1 align="center">Hi 👋, I'm Nahom Bekele</h1>
+<h3 align="center">A software engineer and an experienced React developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomfix&label=Profile%20views&color=0062ff&style=flat" alt="nahomfix" /> </p>
 
--   🌱 I’m currently learning **Bash**
+-   🌱 I’m currently learning **Nest.js**
 
--   💬 Ask me about **react**
+-   💬 Ask me about **React**
 
 -   📫 How to reach me **nahom.fix@gmail.com**
 
